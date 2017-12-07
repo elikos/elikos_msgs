@@ -1,0 +1,2 @@
+Header header
+PositionAndProbability[] positionsAndProbabilities
