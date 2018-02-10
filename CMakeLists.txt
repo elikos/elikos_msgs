@@ -54,7 +54,8 @@ add_service_files(
 	FileManipulation.srv
 	GetConfigFiles.srv
 	SelectCameraFeedWithIndex.srv
-	SelectCameraFeedWithTopic.srv
+	SelectCameraFeedWithFrameID.srv
+	SweepCameras.srv
 )
 
 # Generate actions in the 'action' folder

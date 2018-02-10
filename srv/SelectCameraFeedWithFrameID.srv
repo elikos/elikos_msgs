@@ -1,9 +1,9 @@
 #request fields
-string camera_topic
+string camera_frame_id
 ---
 #response fields
 bool has_changed
 int8 old_camera_index
-string old_camera_topic
+string old_camera_frame_id
 int8 new_camera_index
-string new_camera_topic
+string new_camera_frame_id
